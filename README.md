@@ -43,11 +43,11 @@ Ideal como proyecto inicial para aprender **estado, widgets, callbacks y control
 
 1. Cloná este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/flutter-click-counter.git
+   git clone https://github.com/mauripucheta1/Counter-Application-Flutter.git
 
 2. Entrá al directorio del proyecto:
    ```bash
-   cd flutter-click-counter
+   cd Counter-Application-Flutter
 
 3. Instalá las dependencias:
    ```bash
